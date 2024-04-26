@@ -1,0 +1,271 @@
+dataset name,num_pre_class,domain,categories,Labels,Train_Sample_Size
+1_painting_2,10,painting,2,"saxophone, flying_saucer",20
+2_painting_2,10,painting,2,"leaf, jail",20
+3_painting_2,10,painting,2,"flying_saucer, jail",20
+4_painting_4,10,painting,4,"piano, speedboat, matches, couch",40
+5_painting_4,10,painting,4,"bee, teddy-bear, skyscraper, lightning",40
+6_painting_4,10,painting,4,"piano, speedboat, skyscraper, lightning",40
+7_painting_8,10,painting,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",80
+8_painting_8,10,painting,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",80
+9_painting_8,10,painting,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",80
+10_painting_16,10,painting,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",155
+11_painting_16,10,painting,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",160
+12_painting_16,10,painting,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",155
+13_painting_32,10,painting,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",320
+14_painting_32,10,painting,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",311
+15_painting_32,10,painting,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",311
+16_infograph_2,10,infograph,2,"saxophone, flying_saucer",20
+17_infograph_2,10,infograph,2,"leaf, jail",20
+18_infograph_2,10,infograph,2,"flying_saucer, jail",20
+19_infograph_4,10,infograph,4,"piano, speedboat, matches, couch",40
+20_infograph_4,10,infograph,4,"bee, teddy-bear, skyscraper, lightning",40
+21_infograph_4,10,infograph,4,"piano, speedboat, skyscraper, lightning",40
+22_infograph_8,10,infograph,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",80
+23_infograph_8,10,infograph,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",80
+24_infograph_8,10,infograph,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",80
+25_infograph_16,10,infograph,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",160
+26_infograph_16,10,infograph,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",160
+27_infograph_16,10,infograph,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",160
+28_infograph_32,10,infograph,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",320
+29_infograph_32,10,infograph,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",320
+30_infograph_32,10,infograph,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",320
+31_quickdraw_2,10,quickdraw,2,"saxophone, flying_saucer",20
+32_quickdraw_2,10,quickdraw,2,"leaf, jail",20
+33_quickdraw_2,10,quickdraw,2,"flying_saucer, jail",20
+34_quickdraw_4,10,quickdraw,4,"piano, speedboat, matches, couch",40
+35_quickdraw_4,10,quickdraw,4,"bee, teddy-bear, skyscraper, lightning",40
+36_quickdraw_4,10,quickdraw,4,"piano, speedboat, skyscraper, lightning",40
+37_quickdraw_8,10,quickdraw,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",80
+38_quickdraw_8,10,quickdraw,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",80
+39_quickdraw_8,10,quickdraw,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",80
+40_quickdraw_16,10,quickdraw,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",160
+41_quickdraw_16,10,quickdraw,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",160
+42_quickdraw_16,10,quickdraw,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",160
+43_quickdraw_32,10,quickdraw,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",320
+44_quickdraw_32,10,quickdraw,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",320
+45_quickdraw_32,10,quickdraw,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",320
+46_real_2,10,real,2,"saxophone, flying_saucer",20
+47_real_2,10,real,2,"leaf, jail",20
+48_real_2,10,real,2,"flying_saucer, jail",20
+49_real_4,10,real,4,"piano, speedboat, matches, couch",40
+50_real_4,10,real,4,"bee, teddy-bear, skyscraper, lightning",40
+51_real_4,10,real,4,"piano, speedboat, skyscraper, lightning",40
+52_real_8,10,real,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",80
+53_real_8,10,real,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",80
+54_real_8,10,real,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",80
+55_real_16,10,real,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",160
+56_real_16,10,real,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",160
+57_real_16,10,real,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",160
+58_real_32,10,real,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",320
+59_real_32,10,real,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",320
+60_real_32,10,real,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",320
+61_sketch_2,10,sketch,2,"saxophone, flying_saucer",20
+62_sketch_2,10,sketch,2,"leaf, jail",20
+63_sketch_2,10,sketch,2,"flying_saucer, jail",20
+64_sketch_4,10,sketch,4,"piano, speedboat, matches, couch",40
+65_sketch_4,10,sketch,4,"bee, teddy-bear, skyscraper, lightning",40
+66_sketch_4,10,sketch,4,"piano, speedboat, skyscraper, lightning",40
+67_sketch_8,10,sketch,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",80
+68_sketch_8,10,sketch,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",80
+69_sketch_8,10,sketch,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",80
+70_sketch_16,10,sketch,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",159
+71_sketch_16,10,sketch,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",160
+72_sketch_16,10,sketch,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",160
+73_sketch_32,10,sketch,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",320
+74_sketch_32,10,sketch,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",318
+75_sketch_32,10,sketch,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",318
+76_clipart_2,10,clipart,2,"saxophone, flying_saucer",20
+77_clipart_2,10,clipart,2,"leaf, jail",18
+78_clipart_2,10,clipart,2,"flying_saucer, jail",20
+79_clipart_4,10,clipart,4,"piano, speedboat, matches, couch",40
+80_clipart_4,10,clipart,4,"bee, teddy-bear, skyscraper, lightning",40
+81_clipart_4,10,clipart,4,"piano, speedboat, skyscraper, lightning",40
+82_clipart_8,10,clipart,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",80
+83_clipart_8,10,clipart,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",80
+84_clipart_8,10,clipart,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",80
+85_clipart_16,10,clipart,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",158
+86_clipart_16,10,clipart,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",160
+87_clipart_16,10,clipart,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",160
+88_clipart_32,10,clipart,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",320
+89_clipart_32,10,clipart,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",320
+90_clipart_32,10,clipart,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",320
+91_painting_2,30,painting,2,"saxophone, flying_saucer",60
+92_painting_2,30,painting,2,"leaf, jail",60
+93_painting_2,30,painting,2,"flying_saucer, jail",60
+94_painting_4,30,painting,4,"piano, speedboat, matches, couch",108
+95_painting_4,30,painting,4,"bee, teddy-bear, skyscraper, lightning",120
+96_painting_4,30,painting,4,"piano, speedboat, skyscraper, lightning",120
+97_painting_8,30,painting,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",240
+98_painting_8,30,painting,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",232
+99_painting_8,30,painting,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",240
+100_painting_16,30,painting,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",445
+101_painting_16,30,painting,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",480
+102_painting_16,30,painting,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",455
+103_painting_32,30,painting,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",960
+104_painting_32,30,painting,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",919
+105_painting_32,30,painting,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",919
+106_infograph_2,30,infograph,2,"saxophone, flying_saucer",58
+107_infograph_2,30,infograph,2,"leaf, jail",48
+108_infograph_2,30,infograph,2,"flying_saucer, jail",46
+109_infograph_4,30,infograph,4,"piano, speedboat, matches, couch",102
+110_infograph_4,30,infograph,4,"bee, teddy-bear, skyscraper, lightning",120
+111_infograph_4,30,infograph,4,"piano, speedboat, skyscraper, lightning",120
+112_infograph_8,30,infograph,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",218
+113_infograph_8,30,infograph,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",240
+114_infograph_8,30,infograph,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",232
+115_infograph_16,30,infograph,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",466
+116_infograph_16,30,infograph,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",432
+117_infograph_16,30,infograph,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",464
+118_infograph_32,30,infograph,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",908
+119_infograph_32,30,infograph,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",866
+120_infograph_32,30,infograph,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",925
+121_quickdraw_2,30,quickdraw,2,"saxophone, flying_saucer",60
+122_quickdraw_2,30,quickdraw,2,"leaf, jail",60
+123_quickdraw_2,30,quickdraw,2,"flying_saucer, jail",60
+124_quickdraw_4,30,quickdraw,4,"piano, speedboat, matches, couch",120
+125_quickdraw_4,30,quickdraw,4,"bee, teddy-bear, skyscraper, lightning",120
+126_quickdraw_4,30,quickdraw,4,"piano, speedboat, skyscraper, lightning",120
+127_quickdraw_8,30,quickdraw,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",240
+128_quickdraw_8,30,quickdraw,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",240
+129_quickdraw_8,30,quickdraw,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",240
+130_quickdraw_16,30,quickdraw,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",480
+131_quickdraw_16,30,quickdraw,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",480
+132_quickdraw_16,30,quickdraw,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",480
+133_quickdraw_32,30,quickdraw,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",960
+134_quickdraw_32,30,quickdraw,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",960
+135_quickdraw_32,30,quickdraw,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",960
+136_real_2,30,real,2,"saxophone, flying_saucer",60
+137_real_2,30,real,2,"leaf, jail",60
+138_real_2,30,real,2,"flying_saucer, jail",60
+139_real_4,30,real,4,"piano, speedboat, matches, couch",120
+140_real_4,30,real,4,"bee, teddy-bear, skyscraper, lightning",120
+141_real_4,30,real,4,"piano, speedboat, skyscraper, lightning",120
+142_real_8,30,real,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",240
+143_real_8,30,real,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",240
+144_real_8,30,real,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",240
+145_real_16,30,real,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",480
+146_real_16,30,real,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",480
+147_real_16,30,real,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",480
+148_real_32,30,real,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",960
+149_real_32,30,real,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",951
+150_real_32,30,real,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",960
+151_sketch_2,30,sketch,2,"saxophone, flying_saucer",60
+152_sketch_2,30,sketch,2,"leaf, jail",60
+153_sketch_2,30,sketch,2,"flying_saucer, jail",60
+154_sketch_4,30,sketch,4,"piano, speedboat, matches, couch",120
+155_sketch_4,30,sketch,4,"bee, teddy-bear, skyscraper, lightning",120
+156_sketch_4,30,sketch,4,"piano, speedboat, skyscraper, lightning",120
+157_sketch_8,30,sketch,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",240
+158_sketch_8,30,sketch,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",228
+159_sketch_8,30,sketch,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",240
+160_sketch_16,30,sketch,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",459
+161_sketch_16,30,sketch,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",474
+162_sketch_16,30,sketch,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",474
+163_sketch_32,30,sketch,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",950
+164_sketch_32,30,sketch,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",916
+165_sketch_32,30,sketch,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",920
+166_clipart_2,30,clipart,2,"saxophone, flying_saucer",60
+167_clipart_2,30,clipart,2,"leaf, jail",38
+168_clipart_2,30,clipart,2,"flying_saucer, jail",60
+169_clipart_4,30,clipart,4,"piano, speedboat, matches, couch",85
+170_clipart_4,30,clipart,4,"bee, teddy-bear, skyscraper, lightning",120
+171_clipart_4,30,clipart,4,"piano, speedboat, skyscraper, lightning",104
+172_clipart_8,30,clipart,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",236
+173_clipart_8,30,clipart,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",240
+174_clipart_8,30,clipart,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",236
+175_clipart_16,30,clipart,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",456
+176_clipart_16,30,clipart,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",480
+177_clipart_16,30,clipart,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",480
+178_clipart_32,30,clipart,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",928
+179_clipart_32,30,clipart,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",925
+180_clipart_32,30,clipart,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",928
+181_painting_2,50,painting,2,"saxophone, flying_saucer",100
+182_painting_2,50,painting,2,"leaf, jail",87
+183_painting_2,50,painting,2,"flying_saucer, jail",87
+184_painting_4,50,painting,4,"piano, speedboat, matches, couch",157
+185_painting_4,50,painting,4,"bee, teddy-bear, skyscraper, lightning",200
+186_painting_4,50,painting,4,"piano, speedboat, skyscraper, lightning",200
+187_painting_8,50,painting,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",400
+188_painting_8,50,painting,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",372
+189_painting_8,50,painting,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",400
+190_painting_16,50,painting,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",725
+191_painting_16,50,painting,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",781
+192_painting_16,50,painting,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",755
+193_painting_32,50,painting,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",1556
+194_painting_32,50,painting,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",1460
+195_painting_32,50,painting,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",1492
+196_infograph_2,50,infograph,2,"saxophone, flying_saucer",76
+197_infograph_2,50,infograph,2,"leaf, jail",68
+198_infograph_2,50,infograph,2,"flying_saucer, jail",46
+199_infograph_4,50,infograph,4,"piano, speedboat, matches, couch",145
+200_infograph_4,50,infograph,4,"bee, teddy-bear, skyscraper, lightning",197
+201_infograph_4,50,infograph,4,"piano, speedboat, skyscraper, lightning",190
+202_infograph_8,50,infograph,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",294
+203_infograph_8,50,infograph,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",364
+204_infograph_8,50,infograph,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",313
+205_infograph_16,50,infograph,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",719
+206_infograph_16,50,infograph,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",672
+207_infograph_16,50,infograph,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",735
+208_infograph_32,50,infograph,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",1375
+209_infograph_32,50,infograph,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",1296
+210_infograph_32,50,infograph,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",1403
+211_quickdraw_2,50,quickdraw,2,"saxophone, flying_saucer",100
+212_quickdraw_2,50,quickdraw,2,"leaf, jail",100
+213_quickdraw_2,50,quickdraw,2,"flying_saucer, jail",100
+214_quickdraw_4,50,quickdraw,4,"piano, speedboat, matches, couch",200
+215_quickdraw_4,50,quickdraw,4,"bee, teddy-bear, skyscraper, lightning",200
+216_quickdraw_4,50,quickdraw,4,"piano, speedboat, skyscraper, lightning",200
+217_quickdraw_8,50,quickdraw,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",400
+218_quickdraw_8,50,quickdraw,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",400
+219_quickdraw_8,50,quickdraw,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",400
+220_quickdraw_16,50,quickdraw,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",800
+221_quickdraw_16,50,quickdraw,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",800
+222_quickdraw_16,50,quickdraw,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",800
+223_quickdraw_32,50,quickdraw,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",1600
+224_quickdraw_32,50,quickdraw,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",1600
+225_quickdraw_32,50,quickdraw,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",1600
+226_real_2,50,real,2,"saxophone, flying_saucer",100
+227_real_2,50,real,2,"leaf, jail",100
+228_real_2,50,real,2,"flying_saucer, jail",100
+229_real_4,50,real,4,"piano, speedboat, matches, couch",200
+230_real_4,50,real,4,"bee, teddy-bear, skyscraper, lightning",200
+231_real_4,50,real,4,"piano, speedboat, skyscraper, lightning",200
+232_real_8,50,real,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",400
+233_real_8,50,real,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",400
+234_real_8,50,real,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",400
+235_real_16,50,real,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",800
+236_real_16,50,real,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",800
+237_real_16,50,real,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",800
+238_real_32,50,real,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",1600
+239_real_32,50,real,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",1571
+240_real_32,50,real,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",1600
+241_sketch_2,50,sketch,2,"saxophone, flying_saucer",100
+242_sketch_2,50,sketch,2,"leaf, jail",100
+243_sketch_2,50,sketch,2,"flying_saucer, jail",100
+244_sketch_4,50,sketch,4,"piano, speedboat, matches, couch",180
+245_sketch_4,50,sketch,4,"bee, teddy-bear, skyscraper, lightning",200
+246_sketch_4,50,sketch,4,"piano, speedboat, skyscraper, lightning",200
+247_sketch_8,50,sketch,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",384
+248_sketch_8,50,sketch,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",330
+249_sketch_8,50,sketch,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",366
+250_sketch_16,50,sketch,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",759
+251_sketch_16,50,sketch,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",768
+252_sketch_16,50,sketch,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",774
+253_sketch_32,50,sketch,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",1544
+254_sketch_32,50,sketch,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",1449
+255_sketch_32,50,sketch,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",1489
+256_clipart_2,50,clipart,2,"saxophone, flying_saucer",100
+257_clipart_2,50,clipart,2,"leaf, jail",58
+258_clipart_2,50,clipart,2,"flying_saucer, jail",100
+259_clipart_4,50,clipart,4,"piano, speedboat, matches, couch",117
+260_clipart_4,50,clipart,4,"bee, teddy-bear, skyscraper, lightning",200
+261_clipart_4,50,clipart,4,"piano, speedboat, skyscraper, lightning",164
+262_clipart_8,50,clipart,8,"firetruck, raccoon, tree, bench, postcard, hourglass, hot_dog, frying_pan",375
+263_clipart_8,50,clipart,8,"pencil, dumbbell, spreadsheet, rainbow, bicycle, clock, blueberry, barn",372
+264_clipart_8,50,clipart,8,"hot_dog, firetruck, bench, postcard, blueberry, barn, rainbow, dumbbell",366
+265_clipart_16,50,clipart,16,"airplane, windmill, skateboard, dresser, syringe, leaf, fire_hydrant, birthday_cake, necklace, suitcase, snorkel, hockey_stick, garden, spoon, banana, flip_flops",711
+266_clipart_16,50,clipart,16,"pickup_truck, sandwich, popsicle, hamburger, submarine, scissors, paper_clip, sun, moon, foot, owl, jail, goatee, cello, pizza, church",769
+267_clipart_16,50,clipart,16,"spoon, suitcase, flip_flops, garden, skateboard, syringe, hockey_stick, necklace, church, hamburger, popsicle, pizza, owl, sun, moon, foot",777
+268_clipart_32,50,clipart,32,"penguin, truck, submarine, clarinet, hexagon, picture_frame, brain, duck, pants, spider, bottlecap, book, stethoscope, lightning, flashlight, jail, leg, tree, spoon, flying_saucer, eye, hot_dog, calendar, swan, paper_clip, radio, wine_glass, baseball_bat, peanut, key, hot_tub, feather",1494
+269_clipart_32,50,clipart,32,"tornado, harp, elephant, pond, lipstick, house_plant, paint_can, carrot, compass, toaster, chair, finger, school_bus, rhinoceros, toe, whale, zigzag, chandelier, bulldozer, ladder, lighter, scissors, angel, yoga, mushroom, keyboard, flip_flops, alarm_clock, paintbrush, raccoon, rain, birthday_cake",1471
+270_clipart_32,50,clipart,32,"spoon, flying_saucer, brain, key, pants, picture_frame, feather, swan, tree, hexagon, truck, submarine, calendar, flashlight, clarinet, baseball_bat, rain, school_bus, toe, toaster, flip_flops, lighter, house_plant, zigzag, pond, compass, whale, mushroom, ladder, elephant, tornado, paint_can",1494
