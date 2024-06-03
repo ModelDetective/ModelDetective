@@ -45,17 +45,13 @@ Below is a table describing some of the datasets included in this repository:
 
 
 
-## Foundation Model Embedding
+## MS Score
 
-We utilize foundation model embeddings to capture **domain** and **label** characteristics of datasets, enhancing the predictive accuracy of our transferability models.
-
-## Additional MS Score
-
-Incorporates model scoring metrics like LogME, LEEP, and H-Score as edge features in our graphs, serving as indicators of model transferability.
-
-For any queries or further information, please contact davechenhello@gmail.com
+Incorporates model scoring metrics like LogME, LEEP, and H-Score serving as indicators of model transferability.
 
 ## Baseline Method
+lr.py
 
-- **Linear Regression**
+## Our method
+gat_dm.py
 
